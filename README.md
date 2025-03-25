@@ -1,4 +1,4 @@
-# LifeSure-Project
+# EnergyConsumption-Project
 Project in Explainability AI (WANG Prosper, VANSIELEGHEM Antoine, DUONG Wendy, SHAMIEH George, ESILV DIA6)
 
 Projet d’analyse et de modélisation de la consommation énergétique en France métropolitaine à partir de données ouvertes.
